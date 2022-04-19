@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about Python, Java and www
 - 📫 How to reach me: mburaksenturk@gmail.com
-- ⚡ Fun fact: My first code was written in Delhpi 😂
+- ⚡ Fun fact: My first code was written in Delphi 😂
 
