@@ -8,3 +8,4 @@
 - 📫 How to reach me: mburaksenturk@gmail.com
 - ⚡ Fun fact: My first code was written in Delphi 😂
 
+Past: C, C++, Java, Processing, Delphi, Visual C, C# and PHP (really)
