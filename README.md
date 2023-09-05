@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Doğuş Teknoloji as Offensive Security Specialist
+- 🔭 I’m currently working on a private company in Qatar as Offensive Security Specialist
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m looking for help with Docker
